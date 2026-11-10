@@ -1,0 +1,9 @@
+The connections for this binary counter are as follows:
+
+Led 0 -> Arduino pin 8
+Led 1 -> Arduino pin 9
+Led 2 -> Arduino pin 10
+Led 3 -> Arduino pin 11
+
+All connections are done in the following way-
+Arduino pin -> Anode of the LED -> Cathode of the LED -> 220 ohm res -> GND
