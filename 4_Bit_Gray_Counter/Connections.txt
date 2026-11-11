@@ -1,0 +1,14 @@
+Binary Numbers: 
+LED 0 -> pin 8
+LED 1 -> pin 9
+LED 2 -> pin 10
+LED 3 -> pin 11
+
+Gray Numbers:
+LED 0 -> pin 3
+LED 1 -> pin 4
+LED 2 -> pin 5
+LED 3 -> pin 6
+
+Connection Flow:
+Aruduino Uno -> Anode -> Cathode -> 220 ohm resistance -> Gnd
